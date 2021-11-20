@@ -1,3 +1,6 @@
+Оригинальный репозиторий.  
+https://github.com/kubemq-io/kubemq-targets
+
 # KubeMQ Targets
 
 KubeMQ Targets connects KubeMQ Message Broker with external systems and cloud services.
